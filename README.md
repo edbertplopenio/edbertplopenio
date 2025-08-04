@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/edbertplopenio" target="blank"><img src="https://img.shields.io/twitter/follow/edbertplopenio?logo=twitter&style=for-the-badge" alt="edbertplopenio" /></a> </p>
 
-- 📫 How to reach me **edbertplopenio@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
