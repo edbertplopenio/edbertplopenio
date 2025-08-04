@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edbert Plopenio</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h1 align="center">Hi, I'm Edbert Plopenio</h1>
+<h3 align="center">A passionate developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edbertplopenio&label=Profile%20views&color=0e75b6&style=flat" alt="edbertplopenio" /> </p>
 
@@ -7,13 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/edbertplopenio" target="blank"><img src="https://img.shields.io/twitter/follow/edbertplopenio?logo=twitter&style=for-the-badge" alt="edbertplopenio" /></a> </p>
 
+- 📫 How to reach me **edbertplopenio@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/edbertplopenio" height="30" width="40" /></a>
 <a href="https://twitter.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://fb.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edbertplopenio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/edbert-plopenio-404669292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edbert-plopenio-404669292/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22928379/edbert-plopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22928379/edbert-plopenio" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/edbertplopenio" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/plopenioedbert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/plopenioedbert/" height="30" width="40" /></a>
 <a href="https://instagram.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edbertplopenio" height="30" width="40" /></a>
 </p>
 
