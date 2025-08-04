@@ -11,13 +11,6 @@
 <!-- Animated divider -->
 <img src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/divider.gif" width="100%"/>
 
-<!-- About me section -->
-## 🔥 About Me
-- 💻 Full-stack developer with focus on **Flutter, React & Node.js**
-- 🤖 Currently exploring **Computer Vision & Machine Learning**
-- ✍️ Technical writer on [Dev.to](https://dev.to/edbertplopenio)
-- 🎯 2023 Goals: Contribute to 5+ open source projects
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 60 seconds**
 
 <!-- Skills section with categorized badges -->
 ## 🛠️ Tech Stack
