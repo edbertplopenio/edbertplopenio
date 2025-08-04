@@ -80,18 +80,13 @@
 <!-- Connect section with animated icons -->
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/edbert-plopenio-404669292" target="blank">
-    <img align="center" src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/linkedin.gif" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://twitter.com/edbertplopenio" target="blank">
-    <img align="center" src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/twitter.gif" alt="Twitter" height="40" />
-  </a>
-  <a href="https://dev.to/edbertplopenio" target="blank">
-    <img align="center" src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/devto.gif" alt="Dev.to" height="40" />
-  </a>
-  <a href="https://kaggle.com/edbertplopenio" target="blank">
-    <img align="center" src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/kaggle.gif" alt="Kaggle" height="40" />
-  </a>
+<a href="https://dev.to/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edbertplopenio" height="30" width="40" /></a>
+<a href="https://twitter.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edbertplopenio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edbert-plopenio-404669292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edbert-plopenio-404669292" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22928379/edbert-plopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22928379/edbert-plopenio" height="30" width="40" /></a>
+<a href="https://kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edbertplopenio" height="30" width="40" /></a>
+<a href="https://fb.com/plopenioedbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plopenioedbert" height="30" width="40" /></a>
+<a href="https://instagram.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edbertplopenio" height="30" width="40" /></a>
 </p>
 
 <!-- Footer with quote -->
