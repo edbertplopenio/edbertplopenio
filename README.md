@@ -7,13 +7,6 @@
 <h1 align="center">👋 Hi, I'm Edbert Plopenio</h1>
 <h3 align="center">Full-Stack Developer & AI Enthusiast from Philippines 🇵🇭</h3>
 
-<!-- Dynamic badges section -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edbertplopenio&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/edbertplopenio" target="blank">
-    <img src="https://img.shields.io/twitter/follow/edbertplopenio?color=1DA1F2&logo=twitter&style=flat" alt="Twitter Follow" />
-  </a>
-</p>
 
 <!-- Animated divider -->
 <img src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/divider.gif" width="100%"/>
