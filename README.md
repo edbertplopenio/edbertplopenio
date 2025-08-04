@@ -15,9 +15,7 @@
 ## 🔥 About Me
 - 💻 Full-stack developer with focus on **Flutter, React & Node.js**
 - 🤖 Currently exploring **Computer Vision & Machine Learning**
-- ✍️ Technical writer on [Dev.to](https://dev.to/edbertplopenio)
-- 🎯 2023 Goals: Contribute to 5+ open source projects
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 60 seconds**
+- 🎯 2025 Goals: Contribute to 5+ open source projects
 
 <!-- Skills section with categorized badges -->
 ## 🛠️ Tech Stack
@@ -80,9 +78,4 @@
 <a href="https://kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edbertplopenio" height="30" width="40" /></a>
 <a href="https://fb.com/plopenioedbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plopenioedbert" height="30" width="40" /></a>
 <a href="https://instagram.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edbertplopenio" height="30" width="40" /></a>
-</p>
-
-<!-- Footer with quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </p>
