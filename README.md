@@ -1,21 +1,21 @@
-<!-- Dynamic banner with gradient and wave effect -->
+<!-- Simple clean banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/main/assets/banner.gif" width="100%"/>
 </div>
 
-<!-- Introduction -->
 <h1 align="center">👋 Hi, I'm Edbert Plopenio</h1>
 <h3 align="center">Aspiring IT Professional | Software & Systems Support | 🇵🇭</h3>
 
-<!-- Divider -->
-<img src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/divider.gif" width="100%"/>
+---
 
 ## 🔥 About Me
 
-- 🎓 BSIT Graduate majoring in Business Analytics (BatStateU TNEU, Cum Laude)
-- 💡 Interested in system development, inventory systems, and basic automation
-- 🔧 Experienced in developing academic projects using Laravel, Flutter, and MySQL
-- 📈 Currently learning more about backend development and Linux system administration
+- 🎓 BSIT Graduate majoring in Business Analytics
+- 🖥️ Skilled in creating academic systems using **Laravel**, **Flutter**, and **MySQL**
+- 🔧 Interested in IT support, system development, and automation
+- 🚀 Eager to apply and expand my knowledge in real-world IT environments
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -34,9 +34,11 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Other Tools
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -47,29 +49,17 @@
   </a>
 </div>
 
-<!-- Streak stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edbertplopenio&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
 </div>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edbertplopenio&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<!-- Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/edbert-plopenio-404669292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://fb.com/plopenioedbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edbert-plopenio-404669292" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/edbertplopenio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://fb.com/plopenioedbert" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/edbertplopenio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
