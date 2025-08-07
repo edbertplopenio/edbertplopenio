@@ -3,47 +3,43 @@
   <img src="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/main/assets/banner.gif" width="100%"/>
 </div>
 
-<!-- Introduction with animated emoji -->
+<!-- Introduction -->
 <h1 align="center">👋 Hi, I'm Edbert Plopenio</h1>
-<h3 align="center">Full-Stack Developer & AI Enthusiast from Philippines 🇵🇭</h3>
+<h3 align="center">Aspiring IT Professional | Software & Systems Support | 🇵🇭</h3>
 
-
-<!-- Animated divider -->
+<!-- Divider -->
 <img src="https://github.com/edbertplopenio/edbertplopenio/blob/main/assets/divider.gif" width="100%"/>
 
-<!-- About me section -->
 ## 🔥 About Me
-- 💻 Full-stack developer with focus on **Flutter, React & Node.js**
-- 🤖 Currently exploring **Computer Vision & Machine Learning**
-- 🎯 2025 Goals: Contribute to 5+ open source projects
 
-<!-- Skills section with categorized badges -->
+- 🎓 BSIT Graduate majoring in Business Analytics (BatStateU TNEU, Cum Laude)
+- 💡 Interested in system development, inventory systems, and basic automation
+- 🔧 Experienced in developing academic projects using Laravel, Flutter, and MySQL
+- 📈 Currently learning more about backend development and Linux system administration
+
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 💻 Software & Web Development
+![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+### 📱 Mobile & App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- GitHub Stats Section -->
+### ⚙️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ## 📊 GitHub Stats
 
-<!-- Stats with custom theme -->
 <div align="center">
   <a href="https://github.com/edbertplopenio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edbertplopenio&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
@@ -51,31 +47,29 @@
   </a>
 </div>
 
-<!-- Streak stats with customized appearance -->
+<!-- Streak stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edbertplopenio&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
 </div>
 
-<!-- Trophies with custom layout -->
+<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edbertplopenio&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-<!-- Contribution graph with Pacman theme -->
+<!-- Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/output/pacman-contribution-graph.svg">
   <img alt="Contribution Graph" src="https://raw.githubusercontent.com/edbertplopenio/edbertplopenio/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-<!-- Connect section with animated icons -->
 ## 🌐 Connect With Me
+
 <p align="center">
-<a href="https://dev.to/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://twitter.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edbert-plopenio-404669292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edbert-plopenio-404669292" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22928379/edbert-plopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22928379/edbert-plopenio" height="30" width="40" /></a>
-<a href="https://kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edbertplopenio" height="30" width="40" /></a>
-<a href="https://fb.com/plopenioedbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plopenioedbert" height="30" width="40" /></a>
-<a href="https://instagram.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edbertplopenio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edbert-plopenio-404669292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://kaggle.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://fb.com/plopenioedbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/edbertplopenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
